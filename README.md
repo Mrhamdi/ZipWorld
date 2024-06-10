@@ -24,7 +24,7 @@ ZipWorld is a web application designed to provide a simple, secure, and efficien
 
 ## Getting Started
 
-To get started with ZipWorld, simply visit the [ZipWorld website](https://yourdomain.com) in your web browser.
+To get started with ZipWorld, simply visit the [ZipWorld website](https://zipworld.x10.mx) in your web browser.
 
 ## Contributing
 
@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please reach out to us via the [Contact](mailto:contact@zipworld.com) page on our website.
+For any inquiries, please reach out to us via the [Contact](mailto:contact@) page on our website.
